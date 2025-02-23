@@ -61,3 +61,7 @@ aios-cli start --connect  # Shortcut untuk Start, Login, dan Connect
 aios-cli version  # Update node  
 aios-cli kill  # Stop node
 ```
+status
+```bash
+aios-cli status
+```
